@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @divadiya
+- 👋 Hi, I’m @Divya
 - 👀 I’m interested in coding  and learning new things
 - 🌱 I’m currently learning python and frontend languages
 - 💞️ I’m looking to collaborate on as a fresher and gain some knowledge with the exciting coding exercises
